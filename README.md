@@ -31,3 +31,16 @@
 | Writer delete a blog post       | Deleting the blog post from the database    | The blog post will be deleted and not appear on the page                  |
 | Writer update a blog post       | Updating the blog post in database    | The blog post will be updated                |
 | Writer delete a comment         | Deleting the blog post in database    | The comment will no longer appear under the post
+
+
+## Technologies Used
+* Python
+* Flask
+* PostgreSQL
+* SQLAlchemy
+* HTML5
+* CSS3
+* Javascript
+* Bootstrap
+* Font Awesome
+* jQuery
